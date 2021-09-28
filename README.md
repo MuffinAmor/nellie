@@ -49,7 +49,7 @@ _Why we end this amazing project?_
 - The libery in which the bot is written is out of date/not updated anymore
 - lack of time
 - everybody has his/her own Globalchatbot now 
-- the project group exsist no more
+- the project group exist no more
 
 
 
