@@ -1,7 +1,7 @@
 # Nellie | Globalchat Version 9
 
 Welcome to the most advanced Globalchat System since discord.py rellease.
-<br>Nellie was created in 2018 during a development Project called: Neko's Dev Hood.
+<br>Nellie has been created in 2018 during a development Project called: Neko's Dev Hood.
 <br>After this Project nobody have updated the Code so far, so _yes_ it is _not_ the one plus ultra of best Practice!
 
 _What we have?_
