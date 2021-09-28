@@ -30,6 +30,8 @@ _The Concept behind Nellie_
 <br>The Roomowner (the Dude that has created the Room u know) can Flag Mods for his own Room, or do other fancy stuff.
 <br>Every Mod has the permission to mute or ban Members out of this Chatroom. 
 <br>
+<br>The Picture has only 5 Rooms. It was possible for EVERYONE to create a Room. So there was no limit
+<br>
 <br>
 <br>
 
