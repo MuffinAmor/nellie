@@ -16,7 +16,7 @@ _What we have?_
 
 
 
-_The Concept behind Nelli_
+_The Concept behind Nellie_
 
 
 ![Conncept](https://user-images.githubusercontent.com/55553342/135154507-c9b3d328-3ad1-4cc7-a09c-ece39562c048.png)
@@ -32,6 +32,7 @@ _The Concept behind Nelli_
 <br>
 <br>
 <br>
+
 _Known Bugs_
 
 - Some commands may have few issues
